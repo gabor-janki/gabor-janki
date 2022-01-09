@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabor-janki
 - 👀 I’m interested in learning the basics of programming
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning CS50 via edX
 
 
 <!---
